@@ -8,3 +8,6 @@ Debido al componente de negocio e Inteligencia Artificial, la Propiedad Intelect
 
 ### Cómo solicitar acceso:
 Para revisar el proyecto entero con su historial de Commits y Arquitectura, por favor escríbeme directamente vía email o solicítame acceso de colaborador desde esta pasarela. Te enviaré la invitación al repositorio [`MarketPlastics-Evaluation`](https://github.com/BernatQI/MarketPlastics-Evaluation) a la mayor brevedad.
+
+
+¡¡¡BRAIS, TÚ YA TIENES ACCESO!!!
